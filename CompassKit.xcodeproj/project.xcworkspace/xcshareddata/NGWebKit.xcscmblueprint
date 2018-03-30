@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "07a8f324-28b9-4a73-9728-c4ceb0745c61",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "07a8f324-28b9-4a73-9728-c4ceb0745c61" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "07a8f324-28b9-4a73-9728-c4ceb0745c61" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "38C158F7-0734-4D69-B8B7-6BF8EC2C6379",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "07a8f324-28b9-4a73-9728-c4ceb0745c61" : "svn-mhsdk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NGWebKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NtUniSDK\/iSDKs\/NGWebKit\/NGWebKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn-mhsdk.gz.netease.com\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07a8f324-28b9-4a73-9728-c4ceb0745c61"
+    }
+  ]
+}

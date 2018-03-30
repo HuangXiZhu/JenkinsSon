@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "07a8f324-28b9-4a73-9728-c4ceb0745c61",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "07a8f324-28b9-4a73-9728-c4ceb0745c61" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "07a8f324-28b9-4a73-9728-c4ceb0745c61" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ABFB2DE3-29D9-41FE-BD1C-0068B21A9653",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "07a8f324-28b9-4a73-9728-c4ceb0745c61" : "svn-mhsdk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NgReporter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NtUniSDK\/iSDKs\/NgReporter\/NgReporter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn-mhsdk.gz.netease.com\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07a8f324-28b9-4a73-9728-c4ceb0745c61"
+    }
+  ]
+}
